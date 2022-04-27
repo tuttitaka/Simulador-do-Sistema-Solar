@@ -1,3 +1,3 @@
-# Simulator do Sistema Solar
+# Simulador do Sistema Solar
 
-Simulando de planetas orbitando uma estrela no Python
+Simulando planetas orbitando uma estrela no Python
